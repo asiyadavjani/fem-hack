@@ -1,0 +1,26 @@
+.hero img{
+    width: 400px;
+}
+.hero-text h1{
+    font-size: 25px;
+}
+.section1 img{
+    width: 350px;
+}
+.section2 h1,.section4 h1{
+    justify-content: start;
+    text-align: start;
+}
+.section3 .social-growth img{
+    width: 350px;
+}
+.section5 img{
+    width: 300px;
+}
+.section7,.section9{
+    width:100%;
+}
+
+.section10 img{
+    width:100px
+}

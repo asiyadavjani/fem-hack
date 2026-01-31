@@ -1,0 +1,49 @@
+.hero img{
+    width: 300px;
+}
+.section1 img{
+    max-width: 280px;
+}
+.section2 .social{
+    margin-left: 0px;
+}
+.section3{padding: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.section4 .templates img{
+    width: 250px;
+
+}
+ .section4 button{
+     margin-left:0px;
+    margin-bottom: 30px;
+ }
+ 
+ .section5{
+    padding: 0px;
+ }
+ .section6 img{
+    width: 200px;
+ }
+ .section7{
+    width: 100%;
+    padding: 0px;
+ }
+ .section8 .video{
+    width:250px
+
+
+ }
+.section9 h1,.section10 h1 ,.section12 h1{
+ font-size:25px ;
+}
+.section12 img{
+    width: 250px;
+}
+.section10 img{
+    width:200px;
+}
+.section9 img{
+    max-width: 200px;
+}

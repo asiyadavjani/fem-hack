@@ -1,3 +1,53 @@
-body{
-    background-color: aquamarine;
+.hero ,.section6{
+    display: flex ;
+    flex-direction: column ;
+ align-items: center;}
+
+    .hero-text,.section6-text{
+text-align: center;
+}
+.hero img{
+    padding-top: 20px;
+    width: 500px;
+}
+
+.section1 img{
+    width: 500px;
+}
+.section1 .icon img{
+    width: 50px;
+}
+.section3 h1{
+    margin:0px;
+}
+.section3{
+    padding: 10px;
+}
+
+ .section6 img{
+    padding-top: 20px;
+    width: 300px;
+}
+.section7 img,.section9 img,.section10 img {
+    width:150px
+} 
+.section8 .arrow{
+    display: none;}
+.section8{
+    width: 95%;
+    display: flex ;
+    flex-direction: column ;
+    padding: 0px;
+    margin: 0px;
+}
+.section8 .arrow-vedio{
+    display: flex;
+    justify-content:start;
+    text-align:start;}
+.section8 .arrow-vedio .vedio{
+    width: 250px;
+}
+.section9,.section10,.section11,.section12{
+margin:0px;
+width: 100%;
 }
